@@ -1,6 +1,7 @@
 ---
 templateKey: blaze-page
 path: /blaze
+image: /img/079a5221.png
 title: Describe what you do describe what you do describe
 subtitle: Describe why people like to hire you describe why people like to hire
   you describe why people hire you.
