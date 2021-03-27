@@ -1,7 +1,10 @@
 ---
-templateKey: 'blaze-page'
+templateKey: blaze-page
 path: /blaze
-title: About our values
+title: Describe what you do describe what you do describe
+subtitle: Describe why people like to hire you describe why people like to hire
+  you describe why people hire you.
+buttonText: Discover magic
 ---
 ### Shade-grown coffee
 Coffee is a small tree or shrub that grows in the forest understory in its wild form, and traditionally was grown commercially under other trees that provided shade. The forest-like structure of shade coffee farms provides habitat for a great number of migratory and resident species.
