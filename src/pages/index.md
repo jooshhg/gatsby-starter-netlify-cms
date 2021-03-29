@@ -1,16 +1,25 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
+title: PREFACE
 image: /img/079a5221.png
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+heading: Explaination about this website
+subheading: Some subheading which we can fill out at later time
 mainpitch:
-  title: Why Kaldi
-  description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+  title: Example Preface
+  description: >-
+    Life Presents us with both problems and mysteries. 
+
+    For instance : The problems with Sex and The Mysteries of Romance; 
+
+    Educate the Mystery of “Romance” away, and you’re just left with the problem of “Sex”.
+
+    (In the Process you trade “Love” for “Lust” ).
+
+    So , What is sex education all about? 
+
+    Does it not destroy one of the great Mysteries of life,
+
+    and in so doing build a cultural foundation for Promiscuity
 description: Kaldi is the ultimate spot for coffee lovers who want to learn
   about their java’s origin and support the farmers that grew it. We take coffee
   production, roasting and brewing seriously and we’re glad to pass that
@@ -45,11 +54,20 @@ intro:
         coffee making techniques. All of the artwork on display there is for
         sale. The full price you pay goes to the artist.
   heading: What we offer
-  description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+  description: >-
+    Life Presents us with both problems and mysteries. 
+
+    For instance : The problems with Sex and The Mysteries of Romance; 
+
+    Educate the Mystery of “Romance” away, and you’re just left with the problem of “Sex”.
+
+    (In the Process you trade “Love” for “Lust” ).
+
+    So , What is sex education all about? 
+
+    Does it not destroy one of the great Mysteries of life,
+
+    and in so doing build a cultural foundation for Promiscuity
 main:
   heading: Great coffee with no compromises
   description: >
